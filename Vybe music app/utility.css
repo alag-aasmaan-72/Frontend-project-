@@ -1,0 +1,16 @@
+.border{
+    border: 2px solid red ;
+}
+
+.grid{
+    display: grid;  
+}
+
+:root{
+    --black :  #0B0B0F ; 
+}
+
+
+.flex{
+    display: flex;
+}
