@@ -20,8 +20,8 @@ Link - https://vybeapp-k61xty1i3-be-pro2.vercel.app/
 | Technology | Purpose |
 |---|---|
 | HTML5 | Website structure |
-| CSS3 | Styling, layouts and animations |
-| JavaScript (Vanilla) | Functionality and interactivity |
+| CSS | Styling, layouts and animations |
+| JavaScript | Functionality and interactivity |
 
 ##  Project Structure
 
