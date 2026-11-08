@@ -2,20 +2,20 @@
 
 Link - https://vybeapp-k61xty1i3-be-pro2.vercel.app/
 
-# 🎵 VYBE — Music for Every Moment
+# VYBE — Music for Every Moment
 
 **VYBE** is a frontend music web application designed to deliver an engaging and visually appealing music-listening experience. It features a modern user interface, interactive elements, and a music-focused design, built entirely using **HTML, CSS, and Vanilla JavaScript**.
 
-## ✨ Features
+##  Features
 
-- 🎧 Modern and user-friendly music player interface.
-- 🎨 Attractive and responsive UI design.
-- 🎵 Interactive music controls.
-- 🖼️ Music artwork and album presentation.
-- ⚡ Dynamic interactions using Vanilla JavaScript.
-- 📱 Responsive layout for different screen sizes.
+-  Modern and user-friendly music player interface.
+-  Attractive and responsive UI design.
+-  Interactive music controls.
+-  Music artwork and album presentation.
+-  Dynamic interactions using Vanilla JavaScript.
+-  Responsive layout for different screen sizes.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -23,7 +23,7 @@ Link - https://vybeapp-k61xty1i3-be-pro2.vercel.app/
 | CSS3 | Styling, layouts and animations |
 | JavaScript (Vanilla) | Functionality and interactivity |
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 VYBE/
@@ -42,7 +42,7 @@ VYBE/
 
 *The structure above is illustrative; adjust it to match your actual project files.*
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the project locally.
 
@@ -62,7 +62,7 @@ cd VYBE
 
 Open `index.html` in your browser, or use the Live Server extension in VS Code.
 
-## 🎯 Project Objective
+## Project Objective
 
 The objective of VYBE is to explore frontend web development by building an interactive music application from scratch without relying on frontend frameworks.
 
@@ -73,7 +73,7 @@ This project demonstrates practical knowledge of:
 - Event handling.
 - Interactive frontend development.
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - User authentication and personalized profiles.
 - Playlist creation and management.
@@ -81,10 +81,10 @@ This project demonstrates practical knowledge of:
 - Backend integration.
 - Music streaming and playback management.
 
-## 👨‍💻 Author
+## Author
 
-Developed with ❤️ as a frontend web development project.
+Developed with  as a frontend web development project.
 
 ---
 
-**VYBE — Feel the Music. Live the Moment.** 🎶
+**VYBE — Feel the Music. Live the Moment.** 
